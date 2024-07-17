@@ -1,0 +1,44 @@
+body
+{
+    text-align: center;
+}
+.container1
+{
+    display: flex;
+    justify-content: center;
+}
+.container2
+{
+    display: flex;
+    justify-content: center;
+}
+.box
+{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 50px;
+    margin: 5px;
+    
+
+}
+.pink
+{
+    background-color: pink;
+}
+.green
+{
+    background-color: green;
+}
+.orange
+{
+    background-color: orange;
+}
+.purple
+{
+    background-color: purple;
+}
+.flash
+{
+    background-color: white;
+}
